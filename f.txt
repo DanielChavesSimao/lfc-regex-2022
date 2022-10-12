@@ -1,0 +1,2 @@
+Regex: 1238.5132s
+Boyermoore: 2771.0845s
